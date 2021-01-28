@@ -11,8 +11,8 @@ I was working with the Bank-Marketing dataset, that contains information about a
 We seek to predict that outcome. This can be helpful in developing future marketing campaigns.
 
 **Explain the solution:**
-I received 91.454% accuracy with hyperdrive and logistic regression, and the best model that AutoML fetched was the 
-VotingEnsemble with an accuracy of 91.587%, making VotingEnsemble the best performing model. 
+I received 0.9148027424974711% accuracy with hyperdrive and logistic regression, and the best model that AutoML fetched was the 
+VotingEnsemble with an accuracy of 0.9148%, making StackEnsemble the best performing model. 
 
 # Index
  * [Scikit-learn Pipeline](#scikit)
@@ -81,5 +81,4 @@ It also omits the need to calculate running Median, making it less computational
 
 ## Proof of cluster clean up
 **Image of cluster marked for deletion**
-<img src="Screen Shot 2020-11-12 at 3.03.30 AM.png" alt="Deleting Cluster"/>
-<img src="Screen Shot 2020-11-12 at 3.44.00 AM.png" alt="Cluster is no more"/>
+INSERTED A SCREENSHOT OF DELETING CLUSTER.
